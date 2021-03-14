@@ -1,8 +1,8 @@
 
-package first;
+package calculator;
 import java.util.Scanner;
 
-public class First {
+public class calculator {
 
     public static void main(String[] args) {
         System.out.println("First Java Project Designed By Me\n");
